@@ -1,0 +1,50 @@
+[r]
+afta 
+einai stin
+[/r]
+[p]
+prwti grami
+[p]
+afta sti
+deuteri
+[p]
+[c]
+[p]
+[b]
+kentro
+[p]
+ dio grammes katw kai bold
+[/c]
+[/b]
+[p]
+ katw kai aristera
+[p]
+[b]
+bold
+[p]
+[i]
+bold kai plagia
+[p]
+[/b]
+plagia
+[p]
+[/i]
+[b]
+this is bold
+[p]
+[r]
+right
+[p]
+[i]
+left and italics
+[p]
+[/r]
+adasd
+[p]
+[/b]
+[r]
+fff
+[r]
+[p]
+[p]
+[p]
